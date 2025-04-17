@@ -69,7 +69,7 @@ Plusieurs facteurs peuvent expliquer les chiffres observés :
 
 ## 🖼️ Aperçu visuel
 
-![Aperçu du tableau de bord](screenshots/preview1.png)
+![Aperçu du tableau de bord](screenshots/CPE.png)
 
 ## ✍️ Auteur
 
