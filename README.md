@@ -19,7 +19,7 @@ Ce projet propose une analyse approfondie de l'accès aux services de garde (CPE
 
 ## 📌 Données sources
 
-- [Données Québec - Liste des CPE et garderies (mise à jour : 7 avril 2025)](https://www.donneesquebec.ca/recherche/dataset/liste-des-cpe-et-des-garderies)
+- [Données Québec - Liste des CPE et garderies (mise à jour : 7 avril 2025)](Repertoire-installation - repertoire-installation.csv)
 
 ## 🧠 Faits saillants
 
